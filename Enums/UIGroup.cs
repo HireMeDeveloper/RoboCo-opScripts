@@ -1,0 +1,9 @@
+public enum UIGroup {
+    LOBBY_COOP,
+    HUD_COOP,
+    ENDGAME_COOP,
+    LOADING,
+    PAUSE,
+    SANDBOX_EDITOR,
+    SANDBOX_GAMEPLAY
+}

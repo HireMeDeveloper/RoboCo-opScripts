@@ -1,0 +1,8 @@
+public enum GameState {
+    LOBBY_COOP,
+    GAMEPLAY_COOP,
+    POSTGAME_COOP,
+    LOADING,
+    SANDBOX_EDITOR,
+    SANDBOX_GAMEPLAY
+}
